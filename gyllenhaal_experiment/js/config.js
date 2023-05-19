@@ -4,6 +4,9 @@ EXPERIMENT CONFIGURATION FILE:
 
 Here's the configuration file, to modify the parameters of the experiment.
 
+Link to access the experiment online : 
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
+
 */
 
 //The link of the image used
