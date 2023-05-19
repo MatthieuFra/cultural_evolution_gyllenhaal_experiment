@@ -89,14 +89,15 @@ var audioContext = {
 
 timeline.push(audioContext); 
 
+var instructions = {
+  type: jsPsychHtmlButtonResponse,
+  stimulus: function(){
+    return INSTRUCTION2
+  },
+  choices: ["Got it !"],
+}
 
-var q = 0;
-var k = 0;
-  
-var keyPress1;
-var rtKey1;
-var rtArray1 = [];
-
+timeline.push(instructions);
 
 var first = {
   type: jsPsychSurveyText,
@@ -112,10 +113,7 @@ var first = {
     {prompt: 'Complete the name of the person you see :', rows: 1, required: true}
   ],
   on_start: function(){
-      
-        keyPress1 = null
-        rtKey1 = null
-        soundListened = false
+
         
         var press1 = function(info){
         //audio.pause()
@@ -141,6 +139,7 @@ var first = {
 
 timeline.push(first);
 
+
 var saveData = {
   type: jsPsychCallFunction,
   func: function(){
@@ -160,6 +159,14 @@ var pause = {
   choices: ["Continue"],
 }
 
+var instructionsFollow = {
+  type: jsPsychHtmlButtonResponse,
+  stimulus: function(){
+    return INSTRUCTION1
+  },
+  choices: ["Got it !"],
+}
+
 var showAgain = {
   type: jsPsychSurveyText,
   preamble: function(){
@@ -174,10 +181,6 @@ var showAgain = {
     {prompt: 'This name was written by a previous participant. Write again the name you see :', rows: 1}
   ],
   on_start: function(){
-      
-        keyPress1 = null
-        rtKey1 = null
-        soundListened = false
         
         var press1 = function(info){
         //audio.pause()
@@ -208,6 +211,7 @@ var loop_chain = {
   timeline: [
     saveData,
     pause, 
+    instructionsFollow,
     showAgain, 
     ],
   loop_function: function(){
