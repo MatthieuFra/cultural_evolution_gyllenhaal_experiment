@@ -9,5 +9,7 @@ The code is using jsPsych to implement a way to collect the data locally in a .c
 There's three different condition : 
 
 ***Condition A***: Short name transmission,
+
 ***Condition B*** : Long name transmission,
+
 ***Condition C*** : Medium name transmission with graphical response, 
