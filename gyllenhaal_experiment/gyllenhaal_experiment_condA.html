@@ -167,12 +167,22 @@ var instructionsFollow = {
   choices: ["Got it !"],
 }
 
+var showName = {
+  type: jsPsychHtmlKeyboardResponse,
+  stimulus: function(){
+    return `<img src=${IMAGE} style="width:400px;"></img>
+    <p style= "font-size: 30px"><b>${NAME} ${resp}</b></p>`
+  },
+  choices: ["NO_KEYS"], 
+  trial_duration: 1000,
+};
+
 var showAgain = {
   type: jsPsychSurveyText,
   preamble: function(){
 
           return `<img src=${IMAGE} style="width:400px;"></img>
-                  <p style= "font-size: 30px"><b>${NAME} ${resp}</b></p>
+                  <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
                   <hr><i><p>Click on the </i> 
       <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
       <i> if you want to listen to the name.</p></i><hr>`
@@ -212,6 +222,7 @@ var loop_chain = {
     saveData,
     pause, 
     instructionsFollow,
+    showName, 
     showAgain, 
     ],
   loop_function: function(){
