@@ -72,6 +72,16 @@ var welcome = {
     
 timeline.push(welcome);
 
+//To switch in fullscreen
+var enter_fullscreen = {
+      type: jsPsychFullscreen,
+      message: "<p><i>You're about to enter fullscreen mode.</i></p>",
+      button_label: "Continue",
+      fullscreen_mode: true
+      }; 
+
+timeline.push(enter_fullscreen)
+
 var audioContext = {
   type: jsPsychCallFunction,
   func: function(){
