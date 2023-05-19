@@ -14,8 +14,8 @@ https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaa
 
 ***Condition B*** : Long name transmission,
 
-https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condB.html
 
 ***Condition C*** : Medium name transmission with graphical response, 
 
-https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condC.html
