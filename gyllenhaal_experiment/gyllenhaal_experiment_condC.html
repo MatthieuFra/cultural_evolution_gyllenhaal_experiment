@@ -14,6 +14,7 @@
   <script src="../lib/jspsych-7.3.0/dist/plugin-instructions.js" type="text/javascript"></script>
   <script src="../lib/jspsych-7.3.0/dist/plugin-preload.js" type="text/javascript"></script>
   <script src="../lib/jspsych-7.3.0/dist/plugin-fullscreen.js" type="text/javascript"></script>
+  <script src="../lib/jspsych-7.3.0/dist/plugin-sketchpad.js" type="text/javascript"></script>
   <script src="../lib/jspsych-7.3.0/dist/plugin-survey-html-form.js" type="text/javascript"></script>
   <script src="../lib/jspsych-7.3.0/dist/plugin-survey-multi-choice.js" type="text/javascript"></script>
   <script src="../lib/jspsych-7.3.0/dist/plugin-survey-text.js" type="text/javascript"></script>
@@ -147,7 +148,95 @@ var first = {
   }, 
 };
 
-timeline.push(first);
+//timeline.push(first);
+
+
+var drawFirst = {
+  type: jsPsychSketchpad,
+  prompt: function(){
+
+          return `<img src=${IMAGE} style="width:300px;"></img>
+                  <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
+                  <hr><i><p>Click on the </i> 
+      <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
+      <i> if you want to listen to the name.</p></i><hr>
+      <p>This name was written by a previous participant. Write again the name you see</p>`
+          },
+  prompt_location: 'abovecanvas',
+  trial_duration: 50000,
+  canvas_border_width: 1,
+  canvas_height: 250,
+  show_countdown_trial_duration: true,
+  on_start: function(){
+
+        
+        var press1 = function(info){
+        //audio.pause()
+        var audio = new Audio("audio/robert.mp3");
+        audio.play()
+        }
+
+        var keyboard1 = jsPsych.pluginAPI.getKeyboardResponse({
+          callback_function: press1,
+          valid_responses: [' '],
+          rt_method: 'performance',
+          persist: true,
+          allow_held_key: true,
+        })
+      
+    },
+  on_finish: function(){
+    resp = jsPsych.data.getLastTrialData().trials[0].png
+    console.log(resp)
+    return resp
+  }
+}
+
+
+timeline.push(drawFirst); 
+
+var drawAgain = {
+  type: jsPsychSketchpad,
+  prompt: function(){
+
+          return `<img src=${IMAGE} style="width:300px;"></img>
+                  <img src=${resp} style="width:300px;"></img>
+                  <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
+                  <hr><i><p>Click on the </i> 
+      <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
+      <i> if you want to listen to the name.</p></i><hr>
+      <p>This name was written by a previous participant. Write again the name you see</p>`
+          },
+  prompt_location: 'abovecanvas',
+  trial_duration: 50000,
+  canvas_border_width: 1,
+  canvas_height: 250,
+  show_countdown_trial_duration: true,
+  on_start: function(){
+
+        
+        var press1 = function(info){
+        //audio.pause()
+        var audio = new Audio("audio/robert.mp3");
+        audio.play()
+        }
+
+        var keyboard1 = jsPsych.pluginAPI.getKeyboardResponse({
+          callback_function: press1,
+          valid_responses: [' '],
+          rt_method: 'performance',
+          persist: true,
+          allow_held_key: true,
+        })
+      
+    },
+  on_finish: function(){
+    resp = jsPsych.data.getLastTrialData().trials[0].png
+    console.log(resp)
+    return resp
+  }
+}
+
 
 
 var saveData = {
@@ -232,8 +321,7 @@ var loop_chain = {
     saveData,
     pause, 
     instructionsFollow,
-    showName, 
-    showAgain, 
+    drawAgain, 
     ],
   loop_function: function(){
     if(i == CHAIN_LENGTH){
