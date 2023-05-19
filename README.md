@@ -10,6 +10,12 @@ There's three different condition :
 
 ***Condition A***: Short name transmission,
 
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
+
 ***Condition B*** : Long name transmission,
 
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
+
 ***Condition C*** : Medium name transmission with graphical response, 
+
+https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condA.html
