@@ -111,7 +111,7 @@ timeline.push(instructions);
 
 var first = {
   type: jsPsychSurveyText,
-  preamble: `<img src=${IMAGE} style="width:400px;"></img>
+  preamble: `<img src=${IMAGE} style="width:200px;"></img>
             <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
             <hr>
 
@@ -127,7 +127,7 @@ var first = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 
@@ -180,8 +180,17 @@ var instructionsFollow = {
 var showName = {
   type: jsPsychHtmlKeyboardResponse,
   stimulus: function(){
-    return `<img src=${IMAGE} style="width:400px;"></img>
+    return `<img src=${IMAGE} style="width:200px;"></img>
     <p style= "font-size: 30px"><b>${NAME} ${resp}</b></p>`
+  },
+  choices: ["NO_KEYS"], 
+  trial_duration: 1000,
+};
+
+var fixationCross = {
+  type: jsPsychHtmlKeyboardResponse,
+  stimulus: function(){
+    return `<p style= "font-size: 60px"><b>+</b></p>`
   },
   choices: ["NO_KEYS"], 
   trial_duration: 1000,
@@ -191,7 +200,7 @@ var showAgain = {
   type: jsPsychSurveyText,
   preamble: function(){
 
-          return `<img src=${IMAGE} style="width:400px;"></img>
+          return `<img src=${IMAGE} style="width:200px;"></img>
                   <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
                   <hr><i><p>Click on the </i> 
       <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
@@ -204,7 +213,7 @@ var showAgain = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 
@@ -232,6 +241,7 @@ var loop_chain = {
     saveData,
     pause, 
     instructionsFollow,
+    fixationCross,
     showName, 
     showAgain, 
     ],

@@ -110,52 +110,13 @@ var instructions = {
 
 timeline.push(instructions);
 
-var first = {
-  type: jsPsychSurveyText,
-  preamble: `<img src=${IMAGE} style="width:400px;"></img>
-            <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
-            <hr>
-
-            <i><p>Click on the </i> 
-      <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
-      <i> if you want to listen to the name.</p></i><hr>
-      `,
-  questions: [
-    {prompt: 'Complete the name of the person you see :', rows: 1, required: true}
-  ],
-  on_start: function(){
-
-        
-        var press1 = function(info){
-        //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
-        audio.play()
-        }
-
-        var keyboard1 = jsPsych.pluginAPI.getKeyboardResponse({
-          callback_function: press1,
-          valid_responses: [' '],
-          rt_method: 'performance',
-          persist: true,
-          allow_held_key: true,
-        })
-      
-    },
-  on_finish: function(){
-    resp = jsPsych.data.getLastTrialData().trials[0].response.Q0
-    console.log(resp)
-    return resp
-  }, 
-};
-
-//timeline.push(first);
 
 
 var drawFirst = {
   type: jsPsychSketchpad,
   prompt: function(){
 
-          return `<img src=${IMAGE} style="width:300px;"></img>
+          return `<img src=${IMAGE} style="width:200px;"></img>
                   <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
                   <hr><i><p>Click on the </i> 
       <span style="font-size:15px;border: 1px solid #ccc; line-height: 1.4;color: #333;padding: 7.5px 12px; font-family: sans-serif; background-color: white; margin: 5px; border-radius: 5px;">Space bar</span>
@@ -172,7 +133,7 @@ var drawFirst = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 
@@ -199,7 +160,7 @@ var drawAgain = {
   type: jsPsychSketchpad,
   prompt: function(){
 
-          return `<img src=${IMAGE} style="width:300px;"></img>
+          return `<img src=${IMAGE} style="width:200px;"></img>
                   <img src=${resp} style="width:300px;"></img>
                   <p style= "font-size: 30px"><b>${NAME} ..........</b></p>
                   <hr><i><p>Click on the </i> 
@@ -217,7 +178,7 @@ var drawAgain = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 

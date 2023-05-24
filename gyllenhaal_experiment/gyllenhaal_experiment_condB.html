@@ -127,7 +127,7 @@ var first = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 
@@ -187,6 +187,15 @@ var showName = {
   trial_duration: 1000,
 };
 
+var fixationCross = {
+  type: jsPsychHtmlKeyboardResponse,
+  stimulus: function(){
+    return `<p style= "font-size: 60px"><b>+</b></p>`
+  },
+  choices: ["NO_KEYS"], 
+  trial_duration: 1000,
+};
+
 var showAgain = {
   type: jsPsychSurveyText,
   preamble: function(){
@@ -204,7 +213,7 @@ var showAgain = {
         
         var press1 = function(info){
         //audio.pause()
-        var audio = new Audio("audio/robert.mp3");
+        var audio = new Audio(`${SOUND}`);
         audio.play()
         }
 
@@ -232,6 +241,7 @@ var loop_chain = {
     saveData,
     pause, 
     instructionsFollow,
+    fixationCross,
     showName, 
     showAgain, 
     ],
