@@ -34,4 +34,4 @@ NAME = 'Wang';
 SOUND = 'audio/wang.mp3'
 
 //The length we want for the transmission chain
-CHAIN_LENGTH = 20; 
+CHAIN_LENGTH = 10; 
