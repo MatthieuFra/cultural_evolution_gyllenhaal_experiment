@@ -1,0 +1,263 @@
+"rt","stimulus","response","trial_type","trial_index","time_elapsed","internal_node_id","success","value","task","resp"
+"20058","
+       <p style=""font-size:25px;border: 0px solid #000;border-radius: 5px; color:#222;padding: 8px; font-family: sans-serif"">Welcome</p><hr>
+       <p>Thanks for participing in this chain-transmission experiment.</p>
+       <p style=""font-size:18px"">To begin, click on <b>Continue</b>.</p>
+  ","0","html-button-response","0","20061","0.0-0.0","","","",""
+"","","","fullscreen","1","27369","0.0-1.0","true","","",""
+"","","","call-function","2","27372","0.0-2.0","","true","",""
+"19119","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+
+<p>Good luck!</p>","0","html-button-response","3","46492","0.0-3.0","","","",""
+"29130","","{""Q0"":""shiachien""}","survey-text","4","75630","0.0-4.0","","","",""
+"","","","call-function","5","75630","0.0-5.0-0.0","","true","REPONSE SUJET","shiachien,"
+"22329","<p>Click to make another person respond.<p><hr>","0","html-button-response","6","97960","0.0-5.0-1.0","","","",""
+"25065","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","7","123026","0.0-5.0-2.0","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","8","124038","0.0-5.0-3.0","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou shiachien</b></p>","null","html-keyboard-response","9","125044","0.0-5.0-4.0","","","",""
+"18018","","{""Q0"":""shianen""}","survey-text","10","143068","0.0-5.0-5.0","","","",""
+"","","","call-function","11","143071","0.0-5.1-0.1","","true","REPONSE SUJET","shianen,"
+"13689","<p>Click to make another person respond.<p><hr>","0","html-button-response","12","156761","0.0-5.1-1.1","","","",""
+"4232","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","13","160995","0.0-5.1-2.1","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","14","162002","0.0-5.1-3.1","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou shianen</b></p>","null","html-keyboard-response","15","163010","0.0-5.1-4.1","","","",""
+"13381","","{""Q0"":""shianen""}","survey-text","16","176395","0.0-5.1-5.1","","","",""
+"","","","call-function","17","176396","0.0-5.2-0.2","","true","REPONSE SUJET","shianen,"
+"45784","<p>Click to make another person respond.<p><hr>","0","html-button-response","18","222181","0.0-5.2-1.2","","","",""
+"27831","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","19","250013","0.0-5.2-2.2","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","20","251017","0.0-5.2-3.2","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou shianen</b></p>","null","html-keyboard-response","21","252029","0.0-5.2-4.2","","","",""
+"35250","","{""Q0"":""Xiaoxien""}","survey-text","22","287283","0.0-5.2-5.2","","","",""
+"","","","call-function","23","287284","0.0-5.3-0.3","","true","REPONSE SUJET","Xiaoxien,"
+"17864","<p>Click to make another person respond.<p><hr>","0","html-button-response","24","305149","0.0-5.3-1.3","","","",""
+"12232","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","25","317382","0.0-5.3-2.3","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","26","318389","0.0-5.3-3.3","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou Xiaoxien</b></p>","null","html-keyboard-response","27","319398","0.0-5.3-4.3","","","",""
+"15431","","{""Q0"":""Xiaousen""}","survey-text","28","334834","0.0-5.3-5.3","","","",""
+"","","","call-function","29","334834","0.0-5.4-0.4","","true","REPONSE SUJET","Xiaousen,"
+"66069","<p>Click to make another person respond.<p><hr>","0","html-button-response","30","400904","0.0-5.4-1.4","","","",""
+"7163","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","31","408068","0.0-5.4-2.4","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","32","409078","0.0-5.4-3.4","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou Xiaousen</b></p>","null","html-keyboard-response","33","410091","0.0-5.4-4.4","","","",""
+"92660","","{""Q0"":""xiaocen""}","survey-text","34","502755","0.0-5.4-5.4","","","",""
+"","","","call-function","35","502756","0.0-5.5-0.5","","true","REPONSE SUJET","xiaocen,"
+"1765","<p>Click to make another person respond.<p><hr>","0","html-button-response","36","504522","0.0-5.5-1.5","","","",""
+"1380","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","37","505904","0.0-5.5-2.5","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","38","506906","0.0-5.5-3.5","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou xiaocen</b></p>","null","html-keyboard-response","39","507915","0.0-5.5-4.5","","","",""
+"44489","","{""Q0"":""housiasene""}","survey-text","40","552408","0.0-5.5-5.5","","","",""
+"","","","call-function","41","552408","0.0-5.6-0.6","","true","REPONSE SUJET","housiasene,"
+"14915","<p>Click to make another person respond.<p><hr>","0","html-button-response","42","567324","0.0-5.6-1.6","","","",""
+"7616","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","43","574942","0.0-5.6-2.6","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","44","575950","0.0-5.6-3.6","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou housiasene</b></p>","null","html-keyboard-response","45","576950","0.0-5.6-4.6","","","",""
+"32287","","{""Q0"":""Hozianhousien""}","survey-text","46","609242","0.0-5.6-5.6","","","",""
+"","","","call-function","47","609244","0.0-5.7-0.7","","true","REPONSE SUJET","Hozianhousien,"
+"87999","<p>Click to make another person respond.<p><hr>","0","html-button-response","48","697244","0.0-5.7-1.7","","","",""
+"1883","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","49","699128","0.0-5.7-2.7","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","50","700141","0.0-5.7-3.7","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou Hozianhousien</b></p>","null","html-keyboard-response","51","701148","0.0-5.7-4.7","","","",""
+"36710","","{""Q0"":""zianzhen""}","survey-text","52","737862","0.0-5.7-5.7","","","",""
+"","","","call-function","53","737863","0.0-5.8-0.8","","true","REPONSE SUJET","zianzhen,"
+"43083","<p>Click to make another person respond.<p><hr>","0","html-button-response","54","780947","0.0-5.8-1.8","","","",""
+"1599","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","55","782547","0.0-5.8-2.8","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","56","783556","0.0-5.8-3.8","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou zianzhen</b></p>","null","html-keyboard-response","57","784562","0.0-5.8-4.8","","","",""
+"48834","","{""Q0"":""Xiaensien""}","survey-text","58","833400","0.0-5.8-5.8","","","",""
+"","","","call-function","59","833401","0.0-5.9-0.9","","true","REPONSE SUJET","Xiaensien,"
+"46548","<p>Click to make another person respond.<p><hr>","0","html-button-response","60","879950","0.0-5.9-1.9","","","",""
+"1414","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","61","881366","0.0-5.9-2.9","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","62","882370","0.0-5.9-3.9","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou Xiaensien</b></p>","null","html-keyboard-response","63","883378","0.0-5.9-4.9","","","",""
+"58319","","{""Q0"":""ssahazien""}","survey-text","64","941702","0.0-5.9-5.9","","","",""
+"","","","call-function","65","941703","0.0-5.10-0.10","","true","REPONSE SUJET","ssahazien,"
+"46397","<p>Click to make another person respond.<p><hr>","0","html-button-response","66","988105","0.0-5.10-1.10","","","",""
+"1113","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","67","989220","0.0-5.10-2.10","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","68","990229","0.0-5.10-3.10","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou ssahazien</b></p>","null","html-keyboard-response","69","991234","0.0-5.10-4.10","","","",""
+"49183","","{""Q0"":""ziaoshien""}","survey-text","70","1040421","0.0-5.10-5.10","","","",""
+"","","","call-function","71","1040422","0.0-5.11-0.11","","true","REPONSE SUJET","ziaoshien,"
+"60550","<p>Click to make another person respond.<p><hr>","0","html-button-response","72","1100973","0.0-5.11-1.11","","","",""
+"899","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","73","1101873","0.0-5.11-2.11","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","74","1102885","0.0-5.11-3.11","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou ziaoshien</b></p>","null","html-keyboard-response","75","1103890","0.0-5.11-4.11","","","",""
+"132399","","{""Q0"":""siaochen""}","survey-text","76","1236293","0.0-5.11-5.11","","","",""
+"","","","call-function","77","1236294","0.0-5.12-0.12","","true","REPONSE SUJET","siaochen,"
+"62300","<p>Click to make another person respond.<p><hr>","0","html-button-response","78","1298596","0.0-5.12-1.12","","","",""
+"1315","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","79","1299912","0.0-5.12-2.12","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","80","1300921","0.0-5.12-3.12","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou siaochen</b></p>","null","html-keyboard-response","81","1301930","0.0-5.12-4.12","","","",""
+"30210","","{""Q0"":""siaoucien""}","survey-text","82","1332147","0.0-5.12-5.12","","","",""
+"","","","call-function","83","1332149","0.0-5.13-0.13","","true","REPONSE SUJET","siaoucien,"
+"84884","<p>Click to make another person respond.<p><hr>","0","html-button-response","84","1417034","0.0-5.13-1.13","","","",""
+"1646","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","85","1418683","0.0-5.13-2.13","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","86","1419694","0.0-5.13-3.13","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou siaoucien</b></p>","null","html-keyboard-response","87","1420697","0.0-5.13-4.13","","","",""
+"13665","","{""Q0"":""siaoucien""}","survey-text","88","1434368","0.0-5.13-5.13","","","",""
+"","","","call-function","89","1434369","0.0-5.14-0.14","","true","REPONSE SUJET","siaoucien,"
+"41049","<p>Click to make another person respond.<p><hr>","0","html-button-response","90","1475419","0.0-5.14-1.14","","","",""
+"1347","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","91","1476768","0.0-5.14-2.14","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","92","1477779","0.0-5.14-3.14","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou siaoucien</b></p>","null","html-keyboard-response","93","1478787","0.0-5.14-4.14","","","",""
+"38144","","{""Q0"":""ChiYaoSien""}","survey-text","94","1516935","0.0-5.14-5.14","","","",""
+"","","","call-function","95","1516937","0.0-5.15-0.15","","true","REPONSE SUJET","ChiYaoSien,"
+"153622","<p>Click to make another person respond.<p><hr>","0","html-button-response","96","1670560","0.0-5.15-1.15","","","",""
+"995","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","97","1671557","0.0-5.15-2.15","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","98","1672566","0.0-5.15-3.15","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou ChiYaoSien</b></p>","null","html-keyboard-response","99","1673569","0.0-5.15-4.15","","","",""
+"31143","","{""Q0"":""chiyaousien""}","survey-text","100","1704725","0.0-5.15-5.15","","","",""
+"","","","call-function","101","1704727","0.0-5.16-0.16","","true","REPONSE SUJET","chiyaousien,"
+"155752","<p>Click to make another person respond.<p><hr>","0","html-button-response","102","1860480","0.0-5.16-1.16","","","",""
+"2097","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","103","1862578","0.0-5.16-2.16","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","104","1863587","0.0-5.16-3.16","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou chiyaousien</b></p>","null","html-keyboard-response","105","1864594","0.0-5.16-4.16","","","",""
+"29250","","{""Q0"":""Chiyaosien""}","survey-text","106","1893847","0.0-5.16-5.16","","","",""
+"","","","call-function","107","1893849","0.0-5.17-0.17","","true","REPONSE SUJET","Chiyaosien,"
+"72714","<p>Click to make another person respond.<p><hr>","0","html-button-response","108","1966564","0.0-5.17-1.17","","","",""
+"1000","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","109","1967566","0.0-5.17-2.17","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","110","1968574","0.0-5.17-3.17","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou Chiyaosien</b></p>","null","html-keyboard-response","111","1969579","0.0-5.17-4.17","","","",""
+"30433","","{""Q0"":""chiaosyan""}","survey-text","112","2000016","0.0-5.17-5.17","","","",""
+"","","","call-function","113","2000017","0.0-5.18-0.18","","true","REPONSE SUJET","chiaosyan,"
+"189321","<p>Click to make another person respond.<p><hr>","0","html-button-response","114","2189340","0.0-5.18-1.18","","","",""
+"1298","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p> 
+
+<p>Good luck!</p>","0","html-button-response","115","2190639","0.0-5.18-2.18","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","116","2191645","0.0-5.18-3.18","","","",""
+"null","<img src=https://resize-parismatch.lanmedia.fr/r/940,628/img/var/news/storage/images/paris-match/culture/cinema/the-assassin-hou-hsiao-hsien-cineaste-dans-l-ere-du-tang-927051/13205041-1-fre-FR/The-assassin-.-Hou-Hsiao-Hsien-cineaste-dans-l-ere-du-Tang.jpg style=""width:400px;""></img>
+    <p style= ""font-size: 30px""><b>Hou chiaosyan</b></p>","null","html-keyboard-response","117","2192650","0.0-5.18-4.18","","","",""
+"28884","","{""Q0"":""sihasian""}","survey-text","118","2221539","0.0-5.18-5.18","","","",""
+"7333","<p>Experiment complete.<p><hr>","0","html-button-response","119","2228874","0.0-6.0","","","",""

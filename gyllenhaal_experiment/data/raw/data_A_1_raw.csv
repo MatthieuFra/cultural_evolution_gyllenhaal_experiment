@@ -1,0 +1,142 @@
+"rt","stimulus","response","trial_type","trial_index","time_elapsed","internal_node_id","success","value","task","resp"
+"2237","
+       <p style=""font-size:25px;border: 0px solid #000;border-radius: 5px; color:#222;padding: 8px; font-family: sans-serif"">Welcome</p><hr>
+       <p>Thanks for participing in this chain-transmission experiment.</p>
+       <p style=""font-size:18px"">To begin, click on <b>Continue</b>.</p>
+  ","0","html-button-response","0","2239","0.0-0.0","","","",""
+"","","","fullscreen","1","7776","0.0-1.0","true","","",""
+"","","","call-function","2","7777","0.0-2.0","","true","",""
+"14144","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+
+<p>Good luck!</p>","0","html-button-response","3","21922","0.0-3.0","","","",""
+"35598","","{""Q0"":""chen""}","survey-text","4","57526","0.0-4.0","","","",""
+"","","","call-function","5","57527","0.0-5.0-0.0","","true","REPONSE SUJET","chen,"
+"48300","<p>Click to make another person respond.<p><hr>","0","html-button-response","6","105829","0.0-5.0-1.0","","","",""
+"29562","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","7","135393","0.0-5.0-2.0","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","8","136402","0.0-5.0-3.0","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang chen</b></p>","null","html-keyboard-response","9","137412","0.0-5.0-4.0","","","",""
+"23338","","{""Q0"":""Chen""}","survey-text","10","160756","0.0-5.0-5.0","","","",""
+"","","","call-function","11","160767","0.0-5.1-0.1","","true","REPONSE SUJET","Chen,"
+"50309","<p>Click to make another person respond.<p><hr>","0","html-button-response","12","211078","0.0-5.1-1.1","","","",""
+"24015","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","13","235095","0.0-5.1-2.1","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","14","236107","0.0-5.1-3.1","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Chen</b></p>","null","html-keyboard-response","15","237114","0.0-5.1-4.1","","","",""
+"55011","","{""Q0"":""Wangche""}","survey-text","16","292130","0.0-5.1-5.1","","","",""
+"","","","call-function","17","292131","0.0-5.2-0.2","","true","REPONSE SUJET","Wangche,"
+"71269","<p>Click to make another person respond.<p><hr>","0","html-button-response","18","363402","0.0-5.2-1.2","","","",""
+"22694","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","19","386098","0.0-5.2-2.2","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","20","387102","0.0-5.2-3.2","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Wangche</b></p>","null","html-keyboard-response","21","388107","0.0-5.2-4.2","","","",""
+"8579","","{""Q0"":""Wangche""}","survey-text","22","396691","0.0-5.2-5.2","","","",""
+"","","","call-function","23","396692","0.0-5.3-0.3","","true","REPONSE SUJET","Wangche,"
+"3340","<p>Click to make another person respond.<p><hr>","0","html-button-response","24","400033","0.0-5.3-1.3","","","",""
+"62684","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","25","462718","0.0-5.3-2.3","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","26","463728","0.0-5.3-3.3","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Wangche</b></p>","null","html-keyboard-response","27","464736","0.0-5.3-4.3","","","",""
+"44712","","{""Q0"":""Wangche""}","survey-text","28","509461","0.0-5.3-5.3","","","",""
+"","","","call-function","29","509462","0.0-5.4-0.4","","true","REPONSE SUJET","Wangche,"
+"27508","<p>Click to make another person respond.<p><hr>","0","html-button-response","30","536971","0.0-5.4-1.4","","","",""
+"20300","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","31","557280","0.0-5.4-2.4","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","32","558288","0.0-5.4-3.4","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Wangche</b></p>","null","html-keyboard-response","33","559298","0.0-5.4-4.4","","","",""
+"6553","","{""Q0"":""Wangche""}","survey-text","34","565855","0.0-5.4-5.4","","","",""
+"","","","call-function","35","565856","0.0-5.5-0.5","","true","REPONSE SUJET","Wangche,"
+"16967","<p>Click to make another person respond.<p><hr>","0","html-button-response","36","582824","0.0-5.5-1.5","","","",""
+"23815","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","37","606641","0.0-5.5-2.5","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","38","607649","0.0-5.5-3.5","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Wangche</b></p>","null","html-keyboard-response","39","608658","0.0-5.5-4.5","","","",""
+"12911","","{""Q0"":""wangche""}","survey-text","40","621573","0.0-5.5-5.5","","","",""
+"","","","call-function","41","621574","0.0-5.6-0.6","","true","REPONSE SUJET","wangche,"
+"1613","<p>Click to make another person respond.<p><hr>","0","html-button-response","42","623190","0.0-5.6-1.6","","","",""
+"39483","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","43","662674","0.0-5.6-2.6","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","44","663684","0.0-5.6-3.6","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang wangche</b></p>","null","html-keyboard-response","45","664687","0.0-5.6-4.6","","","",""
+"10701","","{""Q0"":""wangche""}","survey-text","46","675392","0.0-5.6-5.6","","","",""
+"","","","call-function","47","675393","0.0-5.7-0.7","","true","REPONSE SUJET","wangche,"
+"118617","<p>Click to make another person respond.<p><hr>","0","html-button-response","48","794012","0.0-5.7-1.7","","","",""
+"11899","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","49","805913","0.0-5.7-2.7","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","50","806924","0.0-5.7-3.7","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang wangche</b></p>","null","html-keyboard-response","51","807928","0.0-5.7-4.7","","","",""
+"27032","","{""Q0"":""Che""}","survey-text","52","834965","0.0-5.7-5.7","","","",""
+"","","","call-function","53","834966","0.0-5.8-0.8","","true","REPONSE SUJET","Che,"
+"1946","<p>Click to make another person respond.<p><hr>","0","html-button-response","54","836913","0.0-5.8-1.8","","","",""
+"40717","
+<p>Welcome to this transmission chain experiment! This study explores the difficulty of spelling specific names.</p>
+
+<p>You will be asked to spell the last name of a celebrity appearing on the screen. You will be shown a picture of the celebrity and an audio of his*her name.</p> 
+<p>You will also be shown how the previous participant spelt it!</p>
+<p>Attention, the previous spelling will be shown during <b>One second</b>, so pay attention!</p> 
+
+<p>Good luck!</p>","0","html-button-response","55","877631","0.0-5.8-2.8","","","",""
+"null","<p style= ""font-size: 60px""><b>+</b></p>","null","html-keyboard-response","56","878643","0.0-5.8-3.8","","","",""
+"null","<img src=https://image.tmdb.org/t/p/w300_and_h450_bestv2/bRbPSa9lDbXUXKbrLoXDge5oi1m.jpg style=""width:200px;""></img>
+    <p style= ""font-size: 30px""><b>Wang Che</b></p>","null","html-keyboard-response","57","879651","0.0-5.8-4.8","","","",""
+"32526","","{""Q0"":""Wangchen""}","survey-text","58","912182","0.0-5.8-5.8","","","",""
+"11183","<p>Experiment complete.<p><hr>","0","html-button-response","59","923367","0.0-6.0","","","",""
