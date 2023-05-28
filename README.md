@@ -6,6 +6,8 @@ A small repository to create a replication of the gyllenhaal experiment for the 
 
 The code is using jsPsych to implement a way to collect the data locally in a .csv file, after collecting the responses on-site at ENS.
 
+The data is available in the data folder, images and sounds used are in img and sounds, py folder contains the jupyter notebook script to clean the raw data, and js folder contains javascript code to configure the three conditions.
+
 There's the three different condition : 
 
 ***Condition A***: Short name transmission,
