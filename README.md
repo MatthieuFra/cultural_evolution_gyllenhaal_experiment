@@ -18,6 +18,3 @@ https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaa
 
 https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condB.html
 
-***Condition C*** : Medium name transmission with graphical response, 
-
-https://matthieufra.github.io/cultural_evolution_gyllenhaal_experiment/gyllenhaal_experiment/gyllenhaal_experiment_condC.html
